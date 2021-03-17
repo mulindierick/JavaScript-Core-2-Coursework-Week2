@@ -21,3 +21,6 @@ body {
 .btn {
   margin-bottom: 20px;
 }
+#final-output{
+  visibility: visible;
+}
